@@ -1,0 +1,8 @@
+:root{
+   --base-color: #463f3a; 
+   --accent-color: #E0AFA0;
+   --light-color: #f4f3ef;
+
+   --base-font: Verdana, Geneva, Tahoma, sans-serif;
+   --accent-font: 'Times New Roman', Times, serif;
+}

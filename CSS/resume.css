@@ -16,5 +16,30 @@
     display: flex;
     flex-grow: 0;
     flex-direction: column;
-    gap: 2em;
+    
+    gap: 2em
+}
+
+.netto {
+    margin-left: 11em
+}
+
+.avisbud {
+    margin-left: 4em;
+}
+
+.tekniskeSkole{
+    margin-left: 14em;
+}
+
+.privatSkole{
+    margin-left: 11em;
+}
+
+.efterSkole{
+    margin-left: 3em;
+}
+
+.folkeSkole{
+    margin-left: 2em;
 }
